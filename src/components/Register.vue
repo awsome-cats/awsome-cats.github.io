@@ -31,7 +31,7 @@
 <script>
 import firebase from 'firebase';
 export default {
-  name: 'register',
+  name: 'Register',
   data() {
     return {
       email: '',
